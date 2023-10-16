@@ -36,7 +36,7 @@ def saveQR(*args):
 
 
 root = tk.Tk()
-root.title("QR Code Generator")
+root.title("QR Code Generator - built by Hafsa Noorain")
 root.geometry("300x380")
 root.config(bg='white')
 root.resizable(0,0)
